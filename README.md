@@ -1,4 +1,4 @@
-### Hi there my name is Angelica, Angie for short.
+### Hi there my name is Angelica.
 
 <!--
 **AngieElu/AngieElu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
