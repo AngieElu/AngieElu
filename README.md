@@ -14,20 +14,20 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com
+[linkedin]: www.linkedin.com/in/a-kelueze
 <!--
 **AngieElu/AngieElu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... osTicketing and CompTIA A+
+
+- 🌱 I’m currently learning ... How to build an osTicketing System and Start a YouTube Channel
+- 👯 I’m looking to collaborate on ... Everything, I enjoy team work
+- 🤔 I’m looking for help with ... Landing my next IT Job
+- 💬 Ask me about ... my experience with CourseCareers, it's truly a game changer
+- 📫 How to reach me: ... akelueze@gmail.com
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I have 4 dogs and have watched up to 10 dogs at one time! Can you guess what I do in my spare time? 🤔
 -->
