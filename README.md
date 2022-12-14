@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angelica, an <a href="https://linkedin.com/in/akelueze">IT Professional</a>☺</h1>
+<h1>Hi, I'm Angelica, an <a href="https://linkedin.com/in/a-kelueze">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,12 +16,7 @@
 
 [instagram]: https://www.instagram.com
 [linkedin]: www.linkedin.com/in/a-kelueze
-<!--
-**AngieElu/AngieElu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... osTicketing and CompTIA A+
+<!--- 🔭 I’m currently working on ... osTicketing and CompTIA A+
 
 - 🌱 I’m currently learning ... How to build an osTicketing System and Start a YouTube Channel
 - 👯 I’m looking to collaborate on ... Everything, I enjoy team work
@@ -31,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I have 4 dogs and have watched up to 10 dogs at one time! Can you guess what I do in my spare time? 🤔
 -->
+**AngieElu/AngieElu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
